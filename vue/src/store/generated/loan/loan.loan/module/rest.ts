@@ -23,6 +23,8 @@ export interface LoanLoan {
 
 export type LoanMsgApproveLoanResponse = object;
 
+export type LoanMsgCancelLoanResponse = object;
+
 export type LoanMsgLiquidateLoanResponse = object;
 
 export type LoanMsgRepayLoanResponse = object;

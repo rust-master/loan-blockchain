@@ -52051,6 +52051,8 @@ definitions:
         type: string
   loan.loan.MsgApproveLoanResponse:
     type: object
+  loan.loan.MsgCancelLoanResponse:
+    type: object
   loan.loan.MsgLiquidateLoanResponse:
     type: object
   loan.loan.MsgRepayLoanResponse:
